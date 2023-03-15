@@ -3,7 +3,7 @@ Recruitment centres
 
 Recruitment centres with MRI:
 
-| city    | ID  | Short name | Recruitment and acquisition sites                                                                                                                                                                           |
+| City    | ID  | Short name | Recruitment and acquisition sites                                                                                                                                                                           |
 |:--------|----:|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Utrecht | 101 | UMCU       | [UMC Utrecht](https://www.umcutrecht.nl)                                                                                                                                                                    |
 | Paris   | 102 | APHP       | [APHP](https://www.aphp.fr), [Hôpital Robert-Debré](https://robertdebre.aphp.fr)                                                                                                                            |
