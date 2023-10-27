@@ -13,3 +13,13 @@ Recruitment centres with MRI:
 | Essen   | 106 | EUH        | [Universitätsklinikum Essen](https://www.uk-essen.de)                                                                                                                                                       |
 | Pisa    | 107 | PISA       | [IRCCS Fondazione Stella Maris](https://www.fsm.unipi.it/)                                                                                                                                                  |
 | Milano  | 108 | PoliMI     | [IRCCS Ca' Granda Ospedale Maggiore Policlinico](https://www.policlinico.mi.it)                                                                                                                             |
+
+Pseudonym codes
+===============
+
+Pseudonym codes are made of 10 characters:
+* 3 digits of the recruitment centre
+* letter E
+* 6 digits of patient code, not starting with 0
+
+For example, a participant recruited by Universitätsklinikum Essen might have the pseudonym `106E123456`.
