@@ -1,11 +1,11 @@
 <!-- PROJECT SHIELDS -->
-[![Licence: Etalab Open License 2.0](https://img.shields.io/badge/Licence-etalab%2A2.0-blue)](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
+[![Licence: Etalab Open License 2.0](https://img.shields.io/badge/Licence-etalab%202.0-blue)](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
 
 <!-- TABLE OF CONTENTS -->
 - [ENSEMBLE COHORT](#ensemble-cohort)
   - [Recruitment centres](#recruitment-centres)
   - [Pseudonym codes](#pseudonym-codes)
-  - [Pseudonym codes for General Movements Assessment](#pseudonym-codes-for-general-movements-assessment)
+  - [Pseudonym codes for GMA](#pseudonym-codes-for-gma)
   - [Acknowledgments](#acknowledgments)
 
 <!-- CONTENTS -->
@@ -39,7 +39,7 @@ Pseudonym codes are made of 10 characters:
 
 For example, a participant recruited by _Universitätsklinikum Essen_ might have the pseudonym `106E234561`.
 
-## Pseudonym codes for General Movements Assessment
+## Pseudonym codes for GMA
 
 We use specific codes for General Movements Assessment videos:
 * 3 digits of the recruitment centre
