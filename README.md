@@ -41,7 +41,7 @@ For example, a participant recruited by _Universitätsklinikum Essen_ might have
 
 ## Pseudonym codes for GMA
 
-We use specific codes for General Movements Assessment videos:
+We use specific codes for General Movements Assessment (CMA) videos:
 * 3 digits of the recruitment centre
 * letter V
 * 6 digits of patient code, not starting with 0, and ending with 1, but different from the above code
