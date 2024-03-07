@@ -1,5 +1,20 @@
-Recruitment centres
-===================
+<!-- PROJECT SHIELDS -->
+[![Licence: Open License Version 2.0](https://img.shields.io/badge/License-Open%20License%20Version%202.0-blue)](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
+
+<!-- TABLE OF CONTENTS -->
+- [ENSEMBLE COHORT](#ensemble-cohort)
+  - [Recruitment centres](#recruitment-centres)
+  - [Pseudonym codes](#pseudonym-codes)
+    - [Pseudonym codes for General Movements Assessment](#pseudonym-codes-for-general-movements-assessment)
+  - [Acknowledgments](#acknowledgments)
+
+<!-- CONTENTS -->
+# ENSEMBLE COHORT
+
+Very basic information on the Eensemble cohort.
+
+
+## Recruitment centres
 
 Recruitment centres with MRI:
 
@@ -14,18 +29,24 @@ Recruitment centres with MRI:
 | Pisa    | 107 | PISA       | [IRCCS Fondazione Stella Maris](https://www.fsm.unipi.it/)                                                                                                                                                  |
 | Milano  | 108 | PoliMI     | [IRCCS Ca' Granda Ospedale Maggiore Policlinico](https://www.policlinico.mi.it)                                                                                                                             |
 
-Pseudonym codes
-===============
+
+## Pseudonym codes
 
 Pseudonym codes are made of 10 characters:
 * 3 digits of the recruitment centre
 * letter E
 * 6 digits of patient code, not starting with 0, and ending with 1
 
-For example, a participant recruited by Universitätsklinikum Essen might have the pseudonym `106E234561`.
+For example, a participant recruited by _Universitätsklinikum Essen_ might have the pseudonym `106E234561`.
+
+### Pseudonym codes for General Movements Assessment
+
+We use specific codes for General Movements Assessment videos:
+* 3 digits of the recruitment centre
+* letter V
+* 6 digits of patient code, not starting with 0, and ending with 1, but different from the above code
 
 
-Acknowledgments
-===============
+## Acknowledgments
 
 The development of the contents of this repository has been funded by [La Fondation Paralysie Cérébrale](https://www.fondationparalysiecerebrale.org/) under grant [ENSEMBLE](https://www.fondationparalysiecerebrale.org/ensemble-european-newborn-study-early-markers-better-life).
