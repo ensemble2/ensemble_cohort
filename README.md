@@ -5,7 +5,7 @@
 - [ENSEMBLE COHORT](#ensemble-cohort)
   - [Recruitment centres](#recruitment-centres)
   - [Pseudonym codes](#pseudonym-codes)
-    - [Pseudonym codes for General Movements Assessment](#pseudonym-codes-for-general-movements-assessment)
+  - [Pseudonym codes for General Movements Assessment](#pseudonym-codes-for-general-movements-assessment)
   - [Acknowledgments](#acknowledgments)
 
 <!-- CONTENTS -->
@@ -39,7 +39,7 @@ Pseudonym codes are made of 10 characters:
 
 For example, a participant recruited by _Universitätsklinikum Essen_ might have the pseudonym `106E234561`.
 
-### Pseudonym codes for General Movements Assessment
+## Pseudonym codes for General Movements Assessment
 
 We use specific codes for General Movements Assessment videos:
 * 3 digits of the recruitment centre
