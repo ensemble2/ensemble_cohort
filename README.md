@@ -11,7 +11,7 @@
 <!-- CONTENTS -->
 # ENSEMBLE COHORT
 
-Very basic information on the Eensemble cohort.
+Very basic information on the [Ensemble](https://www.fondationparalysiecerebrale.org/ensemble-european-newborn-study-early-markers-better-life) cohort.
 
 
 ## Recruitment centres
