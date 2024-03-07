@@ -23,3 +23,9 @@ Pseudonym codes are made of 10 characters:
 * 6 digits of patient code, not starting with 0, and ending with 1
 
 For example, a participant recruited by Universitätsklinikum Essen might have the pseudonym `106E234561`.
+
+
+Acknowledgments
+===============
+
+The development of the contents of this repository has been funded by [La Fondation Paralysie Cérébrale](https://www.fondationparalysiecerebrale.org/) under grant [ENSEMBLE](https://www.fondationparalysiecerebrale.org/ensemble-european-newborn-study-early-markers-better-life).
