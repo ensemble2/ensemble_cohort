@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![Licence: Open License Version 2.0](https://img.shields.io/badge/License-Open%20License%20Version%202.0-blue)](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
+[![Licence: Etalab Open License 2.0](https://img.shields.io/badge/Licence-etalab%2A2.0-blue)](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
 
 <!-- TABLE OF CONTENTS -->
 - [ENSEMBLE COHORT](#ensemble-cohort)
