@@ -35,16 +35,16 @@ Recruitment centres with MRI:
 Pseudonym codes are made of 10 characters:
 * 3 digits of the recruitment centre
 * letter E
-* 6 digits of patient code, not starting with 0, and ending with 1
+* 6 digits of patient code, not starting with 0 and ending with 1
 
 For example, a participant recruited by _Universitätsklinikum Essen_ might have the pseudonym `106E234561`.
 
 ## Pseudonym codes for GMA
 
-We use specific codes for General Movements Assessment (CMA) videos:
+We use specific codes for General Movements Assessment (GMA) videos, also made of 10 characters:
 * 3 digits of the recruitment centre
 * letter V
-* 6 digits of patient code, not starting with 0, and ending with 1, but different from the above code
+* 6 digits of a patient code, different from the previous code, also not starting with 0 and ending with 1
 
 
 ## Acknowledgments
