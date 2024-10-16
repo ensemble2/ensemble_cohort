@@ -28,7 +28,7 @@ Recruitment centres with MRI:
 | Essen   | 106 | EUH        | [Universitätsklinikum Essen](https://www.uk-essen.de)                                                                                                                                                       |
 | Pisa    | 107 | PISA       | [IRCCS Fondazione Stella Maris](https://www.fsm.unipi.it/)                                                                                                                                                  |
 | Milano  | 108 | PoliMI     | [IRCCS Ca' Granda Ospedale Maggiore Policlinico](https://www.policlinico.mi.it)                                                                                                                             |
-| Firenze | 109 | Meyer      | [Meyer - Azienda Ospedaliera Universitaria]([https://www.policlinico.mi.it](https://www.meyer.it/))                                                                                                         |
+| Firenze | 109 | Meyer      | [Meyer - Azienda Ospedaliera Universitaria](https://www.meyer.it/)                                                                                                                                          |
 
 
 ## Pseudonym codes
