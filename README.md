@@ -3,7 +3,7 @@
 
 <!-- TABLE OF CONTENTS -->
 - [ENSEMBLE COHORT](#ensemble-cohort)
-  - [Recruitment centres](#recruitment-centres)
+  - [Recruitment sites](#recruitment-sitess)
   - [Pseudonym codes](#pseudonym-codes)
   - [Pseudonym codes for GMA](#pseudonym-codes-for-gma)
   - [Acknowledgments](#acknowledgments)
@@ -34,7 +34,7 @@ Recruitment sites with MRI:
 ## Pseudonym codes
 
 Pseudonym codes are made of 10 characters:
-* 3 digits of the recruitment centre
+* 3 digits of the recruitment site
 * letter E
 * 5 digits of patient code, not starting with 0
 * digit 1
@@ -44,7 +44,7 @@ For example, a participant recruited by _Universitätsklinikum Essen_ might have
 ## Pseudonym codes for GMA
 
 We use specific codes for General Movements Assessment (GMA) videos, also made of 10 characters:
-* 3 digits of the recruitment centre
+* 3 digits of the recruitment site
 * letter V
 * 5 digits of a patient code, different from the previous code, also not starting with 0
 * digit 1
