@@ -14,9 +14,9 @@
 Very basic information on the [Ensemble](https://www.fondationparalysiecerebrale.org/ensemble-european-newborn-study-early-markers-better-life) cohort.
 
 
-## Recruitment centres
+## Recruitment sites
 
-Recruitment centres with MRI:
+Recruitment sites with MRI:
 
 | City    | ID  | Short name   | Recruitment and acquisition sites                                                                                                                                                                           |
 |:--------|----:|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
