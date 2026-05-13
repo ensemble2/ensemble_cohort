@@ -3,7 +3,7 @@
 
 <!-- TABLE OF CONTENTS -->
 - [ENSEMBLE COHORT](#ensemble-cohort)
-  - [Recruitment sites](#recruitment-sitess)
+  - [Recruitment sites](#recruitment-sites)
   - [Pseudonym codes](#pseudonym-codes)
   - [Pseudonym codes for GMA](#pseudonym-codes-for-gma)
   - [Acknowledgments](#acknowledgments)
